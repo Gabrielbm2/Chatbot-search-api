@@ -1,7 +1,3 @@
-Claro, aqui está o README pronto para você adicionar ao seu repositório no GitHub:
-
----
-
 # Telegram Bot de Pesquisa Google
 
 Este é um simples bot de Telegram que permite aos usuários pesquisar no Google diretamente da plataforma Telegram. O bot utiliza a biblioteca `googlesearch-python` para realizar as pesquisas no Google e a API do Telegram para interagir com os usuários.
